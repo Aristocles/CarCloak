@@ -135,9 +135,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the Tesla repair community for their support and feedback.
 - Developed with expertise in Tesla hardware-level repairs.
 
-## Contact
-
-For further inquiries or support, please reach out to **[Edward](mailto:eddyjahn@gmail.com)**.
 
 
 
