@@ -137,7 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For further inquiries or support, please reach out to **[Edward](mailto:edward@recondite.com.au)**.
+For further inquiries or support, please reach out to **[Edward](mailto:eddyjahn@gmail.com)**.
 
 
 
