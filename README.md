@@ -47,7 +47,13 @@ For most Tesla Model 3 and Model Y vehicles, the antenna wires can be accessed i
 
 ## Compatibility
 
-CarCloak is compatible with most Tesla Model 3 and Model Y vehicles. However, for 2024 and newer Model 3 vehicles, the antenna wires are located in a different location, making this implementation incompatible at the moment. We are actively working on a solution for these newer models.
+CarCloak is compatible with most Tesla Model 3 and Model Y vehicles.
+
+For 2024+ Model 3 (Highland) vehicles, the architecture is different. The TCU Gen II integrates the LTE/5G modem, Wi-Fi, Bluetooth, and antennas in a single sealed unit with no external RF pigtails. The Highland approach uses an inline device on the 1000BASE-T1 Ethernet link between the TCU and MCU rather than switching antenna feeds directly. See the build log for full details.
+
+## Build Log
+
+Detailed writeup of the research, design decisions, dead-ends, and progress is documented at **[makeitbreakitfixit.com](https://makeitbreakitfixit.com)**. The blog covers the Highland-specific architecture findings, Ethernet cut approach, parts selection, and bench test setup.
 
 ## Getting Started
 
