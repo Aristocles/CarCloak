@@ -1,6 +1,12 @@
 # CarCloak
 https://makeitbreakitfixit.com/2026/05/11/carcloak-taking-my-tesla-fully-offline-part-1/
 
+## Demo Video
+
+[![CarCloak v1 Demo](https://img.youtube.com/vi/ZnDvMjvqEPI/maxresdefault.jpg)](https://youtu.be/ZnDvMjvqEPI)
+
+Watch the v1 prototype in action: BLE master/slave units controlling RF relay switching.
+
 Welcome to the **CarCloak Project**, designed to empower Tesla electric vehicle owners with control over their car's internet connectivity. This repository contains the latest code and resources to implement a minimally intrusive solution for enhancing privacy.
 
 ## Purpose
