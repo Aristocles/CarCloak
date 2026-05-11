@@ -1,4 +1,4 @@
-# CarCloak
+# CarCloak - https://makeitbreakitfixit.com/2026/05/11/carcloak-taking-my-tesla-fully-offline-part-1/
 
 Welcome to the **CarCloak Project**, designed to empower Tesla electric vehicle owners with control over their car's internet connectivity. This repository contains the latest code and resources to implement a minimally intrusive solution for enhancing privacy.
 
