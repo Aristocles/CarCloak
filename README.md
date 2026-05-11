@@ -1,4 +1,7 @@
 # CarCloak
+
+> **⚠️ Active Development** - This project is currently in the design and prototyping phase. The approach described here is based on research and early testing, but has not yet been validated on a production vehicle. Hardware designs, wiring, and firmware are subject to change. Follow along, contribute ideas, but don't wire anything into your car based on this alone. Updates will be posted as the build progresses.
+
 https://makeitbreakitfixit.com/2026/05/11/carcloak-taking-my-tesla-fully-offline-part-1/
 
 ## Demo Video
